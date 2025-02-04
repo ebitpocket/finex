@@ -1,4 +1,4 @@
-module github.com/nusa-exchange/finex
+module github.com/ebitpocket/finex
 
 go 1.18
 
